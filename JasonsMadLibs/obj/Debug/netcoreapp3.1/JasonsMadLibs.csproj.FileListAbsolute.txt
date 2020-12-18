@@ -1,0 +1,13 @@
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\bin\Debug\netcoreapp3.1\JasonsMadLibs.exe
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\bin\Debug\netcoreapp3.1\JasonsMadLibs.deps.json
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\bin\Debug\netcoreapp3.1\JasonsMadLibs.runtimeconfig.json
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\bin\Debug\netcoreapp3.1\JasonsMadLibs.runtimeconfig.dev.json
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\bin\Debug\netcoreapp3.1\JasonsMadLibs.dll
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\bin\Debug\netcoreapp3.1\JasonsMadLibs.pdb
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\obj\Debug\netcoreapp3.1\JasonsMadLibs.csprojAssemblyReference.cache
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\obj\Debug\netcoreapp3.1\JasonsMadLibs.AssemblyInfoInputs.cache
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\obj\Debug\netcoreapp3.1\JasonsMadLibs.AssemblyInfo.cs
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\obj\Debug\netcoreapp3.1\JasonsMadLibs.csproj.CoreCompileInputs.cache
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\obj\Debug\netcoreapp3.1\JasonsMadLibs.dll
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\obj\Debug\netcoreapp3.1\JasonsMadLibs.pdb
+C:\Users\kinga\workspace\JasonsMadLibs\JasonsMadLibs\obj\Debug\netcoreapp3.1\JasonsMadLibs.genruntimeconfig.cache
